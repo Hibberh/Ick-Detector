@@ -1,0 +1,98 @@
+<!DOCTYPE html><html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ember Empire — High-Converting Websites</title>
+<style>
+body {
+  margin:0;
+  font-family: Arial, sans-serif;
+  background:#0a0a0c;
+  color:#e8e6e3;
+}
+.container {
+  max-width:1100px;
+  margin:auto;
+  padding:40px 20px;
+}
+h1,h2,h3 {margin-bottom:10px;}
+p {color:#a09d99;}
+.btn {
+  display:inline-block;
+  padding:12px 24px;
+  background:#f15a2c;
+  color:#fff;
+  text-decoration:none;
+  border-radius:8px;
+  margin-top:20px;
+}
+.section {margin:80px 0;}
+.card {
+  background:#111116;
+  padding:20px;
+  border-radius:12px;
+  margin-bottom:20px;
+}
+.hero {
+  text-align:center;
+  padding:100px 20px;
+}
+.hero h1 {font-size:2.5rem;}
+.grid {
+  display:grid;
+  gap:20px;
+}
+@media(min-width:768px){
+  .grid {grid-template-columns:1fr 1fr 1fr;}
+}
+</style>
+</head>
+<body><div class="container"><!-- HERO --><section class="hero">
+<h1>Websites that make premium brands look expensive — and sell like it.</h1>
+<p>I design high-converting websites for ambitious brands that want to stand out and dominate.</p>
+<a href="#work" class="btn">View My Work</a>
+</section><!-- WHO IT'S FOR --><section class="section">
+<h2>This is for you if:</h2>
+<ul>
+<li>You’re building a premium brand</li>
+<li>You’re tired of cheap-looking websites</li>
+<li>You want clients who can actually pay</li>
+</ul><h3>Not for:</h3>
+<ul>
+<li>Low-budget quick jobs</li>
+<li>People who just want something "nice"</li>
+<li>Anyone not serious about growth</li>
+</ul>
+</section><!-- CASE STUDIES --><section id="work" class="section">
+<h2>Selected Work</h2><div class="card">
+<h3>Luxury Skincare Brand</h3>
+<p><strong>Problem:</strong> Looked cheap and low trust</p>
+<p><strong>Solution:</strong> Clean redesign, better layout, premium feel</p>
+<p><strong>Result:</strong> Stronger brand positioning and higher conversion potential</p>
+</div><div class="card">
+<h3>Fashion Brand</h3>
+<p><strong>Problem:</strong> Poor structure, confusing navigation</p>
+<p><strong>Solution:</strong> Simplified user flow and visual hierarchy</p>
+<p><strong>Result:</strong> Better user experience and engagement</p>
+</div><div class="card">
+<h3>Personal Brand</h3>
+<p><strong>Problem:</strong> No authority, weak presence</p>
+<p><strong>Solution:</strong> Bold layout and strong messaging</p>
+<p><strong>Result:</strong> Increased perceived value</p>
+</div>
+</section><!-- PROCESS --><section class="section">
+<h2>How I Work</h2>
+<ol>
+<li>Understand your brand deeply</li>
+<li>Design a high-converting structure</li>
+<li>Build a clean premium interface</li>
+<li>Deliver a website that sells</li>
+</ol>
+</section><!-- PRICING --><section class="section">
+<h2>Pricing</h2>
+<p>Projects start from $300</p>
+</section><!-- CTA --><section class="section" style="text-align:center;">
+<h2>Ready to build something that actually sells?</h2>
+<a href="#" class="btn">Start a Project</a>
+</section></div></body>
+</html>
